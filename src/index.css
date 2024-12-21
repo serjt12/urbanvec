@@ -2,6 +2,15 @@
 @tailwind components;
 @tailwind utilities;
 
-div {
-    color: red;
+html,
+body {
+    overflow-x: hidden;
+}
+
+html {
+    --cloud-color: var(--tw-cloud-light);
+}
+
+html.dark {
+    --cloud-color: var(--tw-cloud-dark);
 }

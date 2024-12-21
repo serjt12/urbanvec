@@ -3,6 +3,10 @@ module.exports = {
     theme: {
         extend: {
             colors: {
+                cloud: {
+                    light: "#ADD8E6", // White for light mode
+                    dark: "#cccccc", // Light gray for dark mode
+                },
                 background: {
                     light: "#EDEDED",
                     dark: "#2E4A3E",
