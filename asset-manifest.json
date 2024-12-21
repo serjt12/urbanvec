@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/urbanvec/static/css/main.a0825120.css",
-    "main.js": "/urbanvec/static/js/main.90a13531.js",
+    "main.css": "/urbanvec/static/css/main.898a296c.css",
+    "main.js": "/urbanvec/static/js/main.fd5b79c8.js",
     "static/js/488.06f02592.chunk.js": "/urbanvec/static/js/488.06f02592.chunk.js",
     "static/media/vector5.jpg": "/urbanvec/static/media/vector5.60eae0e285b67a9a0220.jpg",
     "static/media/vector6.jpg": "/urbanvec/static/media/vector6.2c373d3fdcd57ddd0e0d.jpg",
@@ -11,12 +11,12 @@
     "static/media/vector2.jpg": "/urbanvec/static/media/vector2.4ee30479b77635f253f4.jpg",
     "static/media/logo_Urbanvec.svg": "/urbanvec/static/media/logo_Urbanvec.2c673448826f3fcdeef534ad5e62d391.svg",
     "index.html": "/urbanvec/index.html",
-    "main.a0825120.css.map": "/urbanvec/static/css/main.a0825120.css.map",
-    "main.90a13531.js.map": "/urbanvec/static/js/main.90a13531.js.map",
+    "main.898a296c.css.map": "/urbanvec/static/css/main.898a296c.css.map",
+    "main.fd5b79c8.js.map": "/urbanvec/static/js/main.fd5b79c8.js.map",
     "488.06f02592.chunk.js.map": "/urbanvec/static/js/488.06f02592.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a0825120.css",
-    "static/js/main.90a13531.js"
+    "static/css/main.898a296c.css",
+    "static/js/main.fd5b79c8.js"
   ]
 }
