@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/urbanvec/static/css/main.6f4e7c43.css",
+    "main.js": "/urbanvec/static/js/main.c13c33fb.js",
+    "static/js/488.06f02592.chunk.js": "/urbanvec/static/js/488.06f02592.chunk.js",
+    "static/media/logo_Urbanvec.svg": "/urbanvec/static/media/logo_Urbanvec.a038ecf6717aca5978cc31df304d588c.svg",
+    "index.html": "/urbanvec/index.html",
+    "main.6f4e7c43.css.map": "/urbanvec/static/css/main.6f4e7c43.css.map",
+    "main.c13c33fb.js.map": "/urbanvec/static/js/main.c13c33fb.js.map",
+    "488.06f02592.chunk.js.map": "/urbanvec/static/js/488.06f02592.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f4e7c43.css",
+    "static/js/main.c13c33fb.js"
+  ]
+}
