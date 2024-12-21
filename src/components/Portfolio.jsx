@@ -8,7 +8,7 @@ const Portfolio = () => {
                 <h2 className="text-3xl font-bold text-primary dark:text-text-light mb-8 text-center">
                     Portfolio
                 </h2>
-                <p className="text-lg text-secondary dark:text-accent-text mb-12 text-center">
+                <p className="text-lg text-secondary dark:text-white mb-12 text-center">
                     Discover our unique collection of urban vectors. Click on a
                     design to explore more or purchase it.
                 </p>

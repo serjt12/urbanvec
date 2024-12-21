@@ -59,9 +59,9 @@ const Hero = () => {
     // Data for buildings
     const buildings = [
         { id: 1, height: "200px", color: "bg-primary" },
-        { id: 2, height: "300px", color: "bg-secondary" },
+        { id: 2, height: "300px", color: "bg-coral" },
         { id: 3, height: "250px", color: "bg-accent-dark" },
-        { id: 4, height: "220px", color: "bg-coral" },
+        { id: 4, height: "220px", color: "bg-secondary" },
     ];
 
     // Data for trees

@@ -16,7 +16,7 @@ const Header = ({ toggleTheme, currentTheme }) => {
 
                 {/* Hamburger Icon */}
                 <button
-                    className="lg:hidden block text-primary dark:text-coral"
+                    className="lg:hidden block text-primary dark:text-coral z-10"
                     onClick={handleMenuToggle}
                 >
                     <svg
@@ -44,7 +44,7 @@ const Header = ({ toggleTheme, currentTheme }) => {
                     <li className="mb-4 lg:mb-0 flex justify-end lg:hidden"></li>
                     <li className="mb-4 lg:mb-0">
                         <a
-                            href="#"
+                            href="/"
                             className="text-primary dark:text-coral transition-all"
                         >
                             PAISAJE
@@ -52,7 +52,7 @@ const Header = ({ toggleTheme, currentTheme }) => {
                     </li>
                     <li className="mb-4 lg:mb-0">
                         <a
-                            href="#"
+                            href="/"
                             className="text-primary dark:text-coral transition-all"
                         >
                             ARQUITECTURA
@@ -60,7 +60,7 @@ const Header = ({ toggleTheme, currentTheme }) => {
                     </li>
                     <li className="mb-4 lg:mb-0">
                         <a
-                            href="#"
+                            href="/"
                             className="text-primary dark:text-coral transition-all"
                         >
                             URBANISMO
