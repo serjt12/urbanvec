@@ -1,16 +1,22 @@
 {
   "files": {
-    "main.css": "/urbanvec/static/css/main.6f4e7c43.css",
-    "main.js": "/urbanvec/static/js/main.c13c33fb.js",
+    "main.css": "/urbanvec/static/css/main.a0825120.css",
+    "main.js": "/urbanvec/static/js/main.90a13531.js",
     "static/js/488.06f02592.chunk.js": "/urbanvec/static/js/488.06f02592.chunk.js",
-    "static/media/logo_Urbanvec.svg": "/urbanvec/static/media/logo_Urbanvec.a038ecf6717aca5978cc31df304d588c.svg",
+    "static/media/vector5.jpg": "/urbanvec/static/media/vector5.60eae0e285b67a9a0220.jpg",
+    "static/media/vector6.jpg": "/urbanvec/static/media/vector6.2c373d3fdcd57ddd0e0d.jpg",
+    "static/media/vector3.jpg": "/urbanvec/static/media/vector3.bd365413669b808eaac6.jpg",
+    "static/media/vector1.jpg": "/urbanvec/static/media/vector1.71d829966cdc78aa51f9.jpg",
+    "static/media/vector4.jpg": "/urbanvec/static/media/vector4.10b3ff714fa01d574412.jpg",
+    "static/media/vector2.jpg": "/urbanvec/static/media/vector2.4ee30479b77635f253f4.jpg",
+    "static/media/logo_Urbanvec.svg": "/urbanvec/static/media/logo_Urbanvec.2c673448826f3fcdeef534ad5e62d391.svg",
     "index.html": "/urbanvec/index.html",
-    "main.6f4e7c43.css.map": "/urbanvec/static/css/main.6f4e7c43.css.map",
-    "main.c13c33fb.js.map": "/urbanvec/static/js/main.c13c33fb.js.map",
+    "main.a0825120.css.map": "/urbanvec/static/css/main.a0825120.css.map",
+    "main.90a13531.js.map": "/urbanvec/static/js/main.90a13531.js.map",
     "488.06f02592.chunk.js.map": "/urbanvec/static/js/488.06f02592.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6f4e7c43.css",
-    "static/js/main.c13c33fb.js"
+    "static/css/main.a0825120.css",
+    "static/js/main.90a13531.js"
   ]
 }
